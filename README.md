@@ -1,4 +1,4 @@
 # MSN
 
-This repository contains the scripts of one of my university's course, 'Modellazione Solida Navale' (Solid Modelling focusing on the naval field).
-There will be Matlab scripts that allow to export illustrative hull's data to other softwares like Rhinoceros, and also some data processing to compare softwares' response with the numerical way.
+This repository contains the scripts for the 'Modellazione Solida Navale' (Naval Solid Modelling) course at University of Trieste.
+It countains Matlab scripts that allow to export illustrative hull's data to other softwares like Rhinoceros. It also enables to run a comparison of the data with the corresponding outputs from such softwares.
